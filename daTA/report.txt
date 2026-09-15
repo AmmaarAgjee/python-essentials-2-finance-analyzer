@@ -1,0 +1,34 @@
+PERSONAL FINANCE TRANSACTION ANALYZER
+=============================================
+
+SUMMARY
+---------------------------------------------
+Total transactions: 11
+Total income: 18000.00
+Total expenses: -9774.50
+Balance change: 8225.50
+Rejected rows: 3
+
+CATEGORY BREAKDOWN
+---------------------------------------------
+ENTERTAINMENT: -199.00
+EXPENSE: 500.00
+FOOD: -1776.50
+INCOME: 17500.00
+RENT: -6000.00
+TRANSPORT: -450.00
+UTILITIES: -1349.00
+
+DUPLICATE TRANSACTIONS
+---------------------------------------------
+No duplicates found.
+
+UNUSUAL TRANSACTIONS
+---------------------------------------------
+2026-08-01 Salary 15000.00 INCOME
+
+ENVIRONMENT INFORMATION
+---------------------------------------------
+Operating system: Windows
+Python platform: Windows-10-10.0.19045-SP0
+Report generated: 2026-09-15 10:31:45.328386
